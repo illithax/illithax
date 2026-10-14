@@ -1,6 +1,6 @@
 
 <p align=center>
-![alt](https://komarev.com/ghpvc/?username=illithax&color=fefefe)
+![](https://komarev.com/ghpvc/?username=illithax)
 </p>
 
 <p align=center>
