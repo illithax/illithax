@@ -1,6 +1,6 @@
 
 <p align=center>
-![](https://komarev.com/ghpvc/?username=illithax)
+
 </p>
 
 <p align=center>
